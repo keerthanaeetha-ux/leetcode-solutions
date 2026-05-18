@@ -1,2 +1,13 @@
-# leetcode-solutions
-My leetcode problem solutions in C++ with explainations and practice tracking.
+# LeetCode Solutions
+
+This repository contains my LeetCode problem solutions.
+
+## Language
+- C++
+
+## Topics Covered
+- Arrays
+- Strings
+- Linked Lists
+- Trees
+- Dynamic Programming
