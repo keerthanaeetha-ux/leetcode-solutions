@@ -1,12 +1,13 @@
 #include<iostream>
 #include<vector>
 using namespace std;
+//Time complexity O(log n)
+//space complexity O(1)
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
         int n = nums.size();
         
-        // Edge cases: single element or check boundaries immediately
         if (n == 1) return nums[0];
         if (nums[0] != nums[1]) return nums[0];
         if (nums[n - 1] != nums[n - 2]) return nums[n - 1];
