@@ -1,5 +1,7 @@
 #include<iostream>
 using namespace std;
+//time complexity:O(n)
+//space complexity:O(1)
 #include<vector>
 class Solution {
 public:
