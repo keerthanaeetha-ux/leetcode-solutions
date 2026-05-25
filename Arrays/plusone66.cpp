@@ -1,5 +1,7 @@
 #include<vector>
 using namespace std;
+//time complexity:
+//Space Complexity:
 
 class Solution {
 public:
