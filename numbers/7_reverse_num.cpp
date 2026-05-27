@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 class Solution {
+    //Time Complexity :O(log n)
 public:
     int reverse(int x) {
         
