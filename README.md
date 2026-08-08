@@ -18,6 +18,7 @@ This repository contains my LeetCode problem solutions.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0238-product-of-array-except-self](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
@@ -39,4 +40,8 @@ This repository contains my LeetCode problem solutions.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
