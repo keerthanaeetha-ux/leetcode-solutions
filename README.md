@@ -17,6 +17,7 @@ This repository contains my LeetCode problem solutions.
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0455-assign-cookies](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
@@ -34,4 +35,8 @@ This repository contains my LeetCode problem solutions.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0455-assign-cookies) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
