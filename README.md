@@ -51,9 +51,14 @@ This repository contains my LeetCode problem solutions.
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0739-daily-temperatures) |
+## String
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
