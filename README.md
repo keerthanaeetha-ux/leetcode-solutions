@@ -78,4 +78,12 @@ This repository contains my LeetCode problem solutions.
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
