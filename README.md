@@ -65,6 +65,7 @@ This repository contains my LeetCode problem solutions.
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0067-add-binary) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
@@ -85,5 +86,14 @@ This repository contains my LeetCode problem solutions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0190-reverse-bits) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
