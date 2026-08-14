@@ -50,6 +50,7 @@ This repository contains my LeetCode problem solutions.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0901-online-stock-span) |
@@ -66,6 +67,7 @@ This repository contains my LeetCode problem solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0067-add-binary) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
@@ -105,4 +107,8 @@ This repository contains my LeetCode problem solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
