@@ -23,6 +23,7 @@ This repository contains my LeetCode problem solutions.
 | [0503-next-greater-element-ii](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [2032-two-out-of-three](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/2032-two-out-of-three) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +95,7 @@ This repository contains my LeetCode problem solutions.
 | [0067-add-binary](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [2032-two-out-of-three](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/2032-two-out-of-three) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +112,7 @@ This repository contains my LeetCode problem solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0202-happy-number) |
+| [2032-two-out-of-three](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/2032-two-out-of-three) |
 ## Sliding Window
 |  |
 | ------- |
