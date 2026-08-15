@@ -26,6 +26,7 @@ This repository contains my LeetCode problem solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -97,6 +98,7 @@ This repository contains my LeetCode problem solutions.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0202-happy-number) |
 ## Simulation
 |  |
 | ------- |
@@ -105,6 +107,7 @@ This repository contains my LeetCode problem solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0202-happy-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -113,4 +116,8 @@ This repository contains my LeetCode problem solutions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
