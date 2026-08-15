@@ -99,10 +99,12 @@ This repository contains my LeetCode problem solutions.
 | ------- |
 | [0067-add-binary](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0258-add-digits) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0258-add-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,4 +130,8 @@ This repository contains my LeetCode problem solutions.
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
