@@ -1,22 +1,23 @@
 class Solution {
 public:
-    vector<int> twoSum(vector<int>& nums, int target) {
-        vector<int> ans;
-        int l = 0;
-        int r = nums.size() - 1;
+    vector<int> twoSum(vector<int>& arr, int tar) {
+        vector<int> ans(2);
+       int n = arr.size();
+        
+int i=0,j= n-1;
+while(i<j){
+    if(arr[i] + arr[j] > tar) j--;
+    else if(arr[i] + arr[j] < tar) i++;
+    else{
+        ans[0]=i+1;
+        ans[1]=j+1;
+        break;
+    }
 
-        while (l < r) {
-            if (nums[l] + nums[r] == target) {
-                ans.push_back(l + 1);//for 1 based indexing
-                ans.push_back(r + 1);
-                return ans;
-            } else if (nums[l] + nums[r] < target) {
-                l++;
-            } else {
-                r--;
-            }
-        }
+}
 
-        return {};//to get rid of compiler return path check
+
+return ans;
+
     }
 };
