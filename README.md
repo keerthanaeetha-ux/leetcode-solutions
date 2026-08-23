@@ -18,6 +18,7 @@ This repository contains my LeetCode problem solutions.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0413-arithmetic-slices](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0455-assign-cookies](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -28,6 +29,7 @@ This repository contains my LeetCode problem solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Greedy
@@ -46,6 +48,7 @@ This repository contains my LeetCode problem solutions.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Prefix Sum
 |  |
 | ------- |
