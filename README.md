@@ -19,6 +19,7 @@ This repository contains my LeetCode problem solutions.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0413-arithmetic-slices](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0455-assign-cookies](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -85,6 +86,7 @@ This repository contains my LeetCode problem solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0907-sum-of-subarray-minimums](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Divide and Conquer
 |  |
@@ -121,6 +123,7 @@ This repository contains my LeetCode problem solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 ## Bracket Sequences
 |  |
 | ------- |
