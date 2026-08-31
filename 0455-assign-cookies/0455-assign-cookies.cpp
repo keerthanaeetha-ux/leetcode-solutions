@@ -8,12 +8,9 @@ public:
         while(i<g.size() && j<s.size()){
             if(s[j]>=g[i]){
                 ans++;
-                j++;
                 i++;
             }
-            else{
-                j++;
-            }
+            j++;
         }
         return ans;
     }
