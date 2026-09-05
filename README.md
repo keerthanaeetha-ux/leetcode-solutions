@@ -77,6 +77,7 @@ This repository contains my LeetCode problem solutions.
 | [0020-valid-parentheses](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0067-add-binary) |
+| [0383-ransom-note](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0383-ransom-note) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
@@ -121,6 +122,7 @@ This repository contains my LeetCode problem solutions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0383-ransom-note) |
 | [2032-two-out-of-three](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/2032-two-out-of-three) |
 ## Sliding Window
 |  |
@@ -147,4 +149,8 @@ This repository contains my LeetCode problem solutions.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0258-add-digits) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
