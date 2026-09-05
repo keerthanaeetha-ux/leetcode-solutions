@@ -1,21 +1,20 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-        //Time complexity O(m)
-        //Space Complexity O(n)
-        unordered_map<char,int>magazine_map;
+        int arr[26];
         for(char ch:magazine){
-            magazine_map[ch]++;
+            arr[ch-'a']++;
         }
-        for(int i=0;i<ransomNote.length();i++){
-            if(magazine_map[ransomNote[i]]>0){
-                magazine_map[ransomNote[i]]--;
+        for(char c:ransomNote){
+            if(arr[c-'a']>0){
+                arr[c-'a']--;
             }
             else{
                 return false;
             }
         }
         return true;
+
         
     }
 };
