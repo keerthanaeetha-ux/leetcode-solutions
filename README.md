@@ -26,6 +26,7 @@ This repository contains my LeetCode problem solutions.
 | [0455-assign-cookies](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0575-distribute-candies](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0739-daily-temperatures](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [2032-two-out-of-three](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/2032-two-out-of-three) |
@@ -135,6 +136,7 @@ This repository contains my LeetCode problem solutions.
 | [0409-longest-palindrome](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [2032-two-out-of-three](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/2032-two-out-of-three) |
 ## Sliding Window
 |  |
