@@ -24,6 +24,7 @@ This repository contains my LeetCode problem solutions.
 | [0413-arithmetic-slices](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0500-keyboard-row](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -83,6 +84,7 @@ This repository contains my LeetCode problem solutions.
 | [0383-ransom-note](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0500-keyboard-row](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
@@ -132,6 +134,7 @@ This repository contains my LeetCode problem solutions.
 | [0387-first-unique-character-in-a-string](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [2032-two-out-of-three](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/2032-two-out-of-three) |
 ## Sliding Window
 |  |
