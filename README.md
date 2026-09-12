@@ -18,6 +18,7 @@ This repository contains my LeetCode problem solutions.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -129,6 +130,7 @@ This repository contains my LeetCode problem solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0383-ransom-note) |
@@ -173,4 +175,8 @@ This repository contains my LeetCode problem solutions.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/keerthanaeetha-ux/leetcode-solutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
